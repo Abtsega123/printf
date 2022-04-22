@@ -1,6 +1,6 @@
 # printf
 
-### Description
+### Descriptions
 
 ------------
 
